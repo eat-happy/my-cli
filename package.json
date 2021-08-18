@@ -1,5 +1,5 @@
 {
-  "name": "@huqing/cli",
+  "name": "huqing-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "posttest": "npm run lint"
   },
   "keywords": [],
-  "author": "huqing",
+  "author": "huqing<86122715@qq.com>",
   "license": "ISC",
   "devDependencies": {
     "gts": "^3.1.0",
